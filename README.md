@@ -1,2 +1,1 @@
-# alfanxploitshell
 AlfanXploit Shell
